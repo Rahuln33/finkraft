@@ -1,0 +1,12 @@
+{
+  "1": {
+    "description": "Sample transaction",
+    "amount": 1000.00,
+    "date": "2022-03-15"
+  },
+  "2": {
+      "description": "Other transaction",
+      "amount": 200.00,
+      "date": "2022-04-10"
+    }
+}
